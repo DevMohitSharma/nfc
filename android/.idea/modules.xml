@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Nfc.iml" filepath="$PROJECT_DIR$/.idea/modules/Nfc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Nfc.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Nfc.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1761411882/Nfc.react-native-nfc-manager.iml" filepath="$PROJECT_DIR$/.idea/modules/-1761411882/Nfc.react-native-nfc-manager.iml" />
+    </modules>
+  </component>
+</project>
